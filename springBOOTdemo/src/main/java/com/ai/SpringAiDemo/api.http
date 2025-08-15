@@ -1,0 +1,6 @@
+POST http://localhost:8080/api/google-gemini/chat
+Content-Type: application/json
+
+{
+    "message": "give a bad joke"
+}
